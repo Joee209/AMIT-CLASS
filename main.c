@@ -7,6 +7,8 @@
 int main ()
 {
     printf("hello world /n");
+    char y;
+    \\ test test 
     return 0;
     
 }
